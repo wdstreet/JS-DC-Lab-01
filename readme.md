@@ -1,4 +1,4 @@
-![](assets/logo.png) [Intro to
+![](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg) [Intro to
 Javascript](https://github.com/ga-students/JS-DC)
 
 
