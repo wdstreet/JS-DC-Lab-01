@@ -1,3 +1,7 @@
+![](assets/logo.png) [Intro to
+Javascript](https://github.com/ga-students/JS-DC)
+
+
 # War
 You have been contracted to build a command line game that models the card game `War`.
 
