@@ -1,6 +1,4 @@
-![](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg) [Intro to
-Javascript](https://github.com/ga-students/JS-DC)
-
+[Intro to JavaScript](https://github.com/ga-students/JS-DC)
 
 # War
 You have been contracted to build a command line game that models the card game `War`.
