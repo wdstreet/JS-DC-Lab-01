@@ -72,5 +72,3 @@ Use `object oriented programming`, modeling Cards, Decks, and Players. Your
 file should be broken up into multiple files, grouping your code by
 functionality and purpose.
 
-## Bonus Level 3
-Use `functional programming`, making it so all your functions are pure (have no side effects)
